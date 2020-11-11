@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1440
     height: 798
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -323,7 +323,7 @@ MonoBehaviour:
   m_MinSize: {x: 508, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 0
-  controlID: 51
+  controlID: 136
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -348,7 +348,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 52
+  controlID: 137
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -555,9 +555,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 23.430582, y: -0.43172216, z: -23.38056}
+    m_Target: {x: -5.108203, y: 1.0744698, z: -0.89314264}
     speed: 2
-    m_Value: {x: 23.430582, y: -0.43172216, z: -23.38056}
+    m_Value: {x: -5.108203, y: 1.0744698, z: -0.89314264}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -604,13 +604,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.12
   m_Rotation:
-    m_Target: {x: -0.01336518, y: -0.913127, z: 0.03016666, w: -0.40646616}
+    m_Target: {x: -0.03205465, y: -0.70086724, z: -0.03156161, w: 0.711881}
     speed: 2
-    m_Value: {x: 0.01336518, y: 0.913127, z: -0.03016666, w: 0.40646616}
+    m_Value: {x: -0.032054443, y: -0.70086265, z: -0.0315614, w: 0.71187633}
   m_Size:
-    m_Target: 17.639917
+    m_Target: 4.082025
     speed: 2
-    m_Value: 17.639917
+    m_Value: 3.782025
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1488,7 +1488,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 62fbffff
+      m_ExpandedIDs: 62fbffffae360000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1551,21 +1551,21 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resource/Texture
+    - Assets/Shaders/Texture
     m_Globs: []
   m_ViewMode: 1
-  m_StartGridSize: 77
+  m_StartGridSize: 32
   m_LastFolders:
-  - Assets/Resource/Texture
-  m_LastFoldersGridSize: 77
-  m_LastProjectPath: /Users/zhanminxiang/Desktop/VR-I'll take you to the silence/ref/ShaderPractice
+  - Assets/Shaders/Texture
+  m_LastFoldersGridSize: 32
+  m_LastProjectPath: /Users/zhanminxiang/Unity3D Project/ShaderPractice
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ac370000
-    m_LastClickedID: 14252
-    m_ExpandedIDs: 00000000783700007c3700007e3700008237000000ca9a3b
+    m_SelectedIDs: ba370000
+    m_LastClickedID: 14266
+    m_ExpandedIDs: 0000000096370000a4370000a837000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1593,7 +1593,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 693}
     m_SelectedIDs: 8a4c0000
     m_LastClickedID: 19594
-    m_ExpandedIDs: 0000000078370000
+    m_ExpandedIDs: 0000000096370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1646,7 +1646,7 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 77
+    m_GridSize: 32
   m_SkipHiddenPackages: 1
   m_DirectoriesAreaWidth: 110
 --- !u!114 &29
